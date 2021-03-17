@@ -18,6 +18,24 @@
         "Elements",
         "inptMem.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "membership",
+        "Elements",
+        "btnEnter.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "membership",
+        "Elements",
+        "lblName.json"
+      ]
     }
   ],
   "class": "",
