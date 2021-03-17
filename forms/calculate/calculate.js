@@ -1,5 +1,3 @@
-
-/*
 let product = 0
 let sum = 0
 
@@ -25,4 +23,3 @@ btnAdd.onclick=function(){
   lblOutput.textContent = `The sum is ${sum}`
   
 }
-*/
