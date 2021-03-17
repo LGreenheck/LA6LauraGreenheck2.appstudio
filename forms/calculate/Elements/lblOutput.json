@@ -18,10 +18,10 @@
   "fontSize": 16,
   "fontStyle": "",
   "fontWeight": "bold",
-  "height": "auto",
+  "height": 29,
   "hidden": "",
-  "id": "lblName",
-  "left": 111,
+  "id": "lblOutput",
+  "left": 120,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -44,7 +44,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "text": "",
-  "top": 56,
-  "width": "auto"
+  "text": "Answer",
+  "top": 26,
+  "width": 77
 }
